@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//Kasa/static/css/main.4b64372b.css",
+    "main.js": "//Kasa/static/js/main.684753bb.js",
+    "static/media/banner_about.png": "//Kasa/static/media/banner_about.f3c06c113eb0a6f016f4.png",
+    "static/media/banner_home.png": "//Kasa/static/media/banner_home.1347937c21825536f5c5.png",
+    "index.html": "//Kasa/index.html",
+    "main.4b64372b.css.map": "//Kasa/static/css/main.4b64372b.css.map",
+    "main.684753bb.js.map": "//Kasa/static/js/main.684753bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b64372b.css",
+    "static/js/main.684753bb.js"
+  ]
+}
