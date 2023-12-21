@@ -1,0 +1,17 @@
+.accomodation {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.accomodation__dorpdowns {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+}
+
+@media (max-width: 992px) {
+  .accomodation__dorpdowns {
+    flex-direction: column;
+  }
+}
